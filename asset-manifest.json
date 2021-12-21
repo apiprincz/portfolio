@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/apiprincz/static/css/main.7dd26cd4.chunk.css",
+    "main.js": "/apiprincz/static/js/main.039b0eed.chunk.js",
+    "main.js.map": "/apiprincz/static/js/main.039b0eed.chunk.js.map",
+    "runtime-main.js": "/apiprincz/static/js/runtime-main.2f5ea1e5.js",
+    "runtime-main.js.map": "/apiprincz/static/js/runtime-main.2f5ea1e5.js.map",
+    "static/js/2.ff12e11f.chunk.js": "/apiprincz/static/js/2.ff12e11f.chunk.js",
+    "static/js/2.ff12e11f.chunk.js.map": "/apiprincz/static/js/2.ff12e11f.chunk.js.map",
+    "index.html": "/apiprincz/index.html",
+    "static/css/main.7dd26cd4.chunk.css.map": "/apiprincz/static/css/main.7dd26cd4.chunk.css.map",
+    "static/js/2.ff12e11f.chunk.js.LICENSE.txt": "/apiprincz/static/js/2.ff12e11f.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/apiprincz/static/media/PermanentMarker-Regular.109a10dc.ttf",
+    "static/media/af.1c526f25.PNG": "/apiprincz/static/media/af.1c526f25.PNG",
+    "static/media/afro.bea26bdb.PNG": "/apiprincz/static/media/afro.bea26bdb.PNG",
+    "static/media/apt.a41fc0c2.PNG": "/apiprincz/static/media/apt.a41fc0c2.PNG",
+    "static/media/colors.1aa9d066.svg": "/apiprincz/static/media/colors.1aa9d066.svg",
+    "static/media/gor.ae20e359.PNG": "/apiprincz/static/media/gor.ae20e359.PNG",
+    "static/media/kjk.f8185543.PNG": "/apiprincz/static/media/kjk.f8185543.PNG",
+    "static/media/logo.6ce24c58.svg": "/apiprincz/static/media/logo.6ce24c58.svg",
+    "static/media/notepad.00bfae70.svg": "/apiprincz/static/media/notepad.00bfae70.svg",
+    "static/media/tr.b5d57f88.PNG": "/apiprincz/static/media/tr.b5d57f88.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f5ea1e5.js",
+    "static/js/2.ff12e11f.chunk.js",
+    "static/css/main.7dd26cd4.chunk.css",
+    "static/js/main.039b0eed.chunk.js"
+  ]
+}
